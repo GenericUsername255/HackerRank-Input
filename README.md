@@ -1,9 +1,9 @@
-# HackerRank-input
+# Python HackerRank input() simulator
 
-## Small Python script to help with HackerRank inputs.
+## Small Python script to help with HackerRank inputs
 
-Just paste the Sample Input into the input.txt file and call input() in HackerRank.py to get the first line.  
-Repeat for all the rest.  
+Just paste the Sample Input into the input.txt file and call input() in HackerRank.py.  
+Repeat for all the input lines. 
 
 
 ## Why i made this
